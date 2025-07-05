@@ -1,8 +1,8 @@
 
-token = '7960294438:AAHINI30F4aGsfsKl1wLNVZ5Sv3HTHjs9ps'
+token = '8169304529:AAHbVblgjNZp1_A_6ldq5XBi2M-MO21FD4I'
 chat_id = '5951654734'
 
-
+w
 import telebot
 import subprocess
 from os import system, name
